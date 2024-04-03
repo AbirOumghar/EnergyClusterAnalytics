@@ -1,7 +1,7 @@
 # EnergyClusterAnalytics 🌟
 
 ## Overview
-"EnergyClusterAnalytics" is a cutting-edge academic project 📚 that utilizes unsupervised learning techniques 📊 to delve into and understand patterns in residential electricity consumption 🔌. This project applies Principal Component Analysis (PCA), various clustering algorithms, and Binary Segmentation Search 🧩 to identify distinct consumption behaviors across 100 apartments over a span of 91 days. Through detailed data analysis, we aim to uncover insights for more targeted and efficient energy management strategies 💡.
+"EnergyClusterAnalytics" is a cutting-edge academic project, that utilizes unsupervised learning techniques  to delve into and understand patterns in residential electricity consumption . This project applies Principal Component Analysis (PCA), various clustering algorithms, and Binary Segmentation Search to identify distinct consumption behaviors across 100 apartments over a span of 91 days. Through detailed data analysis, we aim to uncover insights for more targeted and efficient energy management strategies 💡.
 
 ## Objectives
 - To explore and understand the variability in electricity consumption among different households.
